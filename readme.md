@@ -1,4 +1,4 @@
-World_Grey_Line_Map_Nextion_Screen_FR
+World_Grey_Line_Map_Nextion_Screen_GB
  
 A (WGLMNS) World grey line MAP with a stand alone Nextion screen ( Real Time Clock,without any computer, just only with a battery) 
 
