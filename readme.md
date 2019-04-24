@@ -7,7 +7,7 @@ https://dx.qsl.net/propagation/greyline.html
 <img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/BOOT%2024.JPG title = "Nextion greyline boot">
 
 Updated today in version 1.3 for the 3.5" HMI with the GMT : after the start, you must set the hour of the screen in GMT "London".
-<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/Capture.JPG title = "Nextion clock world">
+<img src = https://github.com/f5swb/greyline-Nextion-screen/blob/master/Capture%20gb.JPG = "Nextion clock world">
 
 What you need :
 - one NEXTION screen (models NX3224K024_11,NX3224K028_11 ou NX4832K035_11 are supported) ;
