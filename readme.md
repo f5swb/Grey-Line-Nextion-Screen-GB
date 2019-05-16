@@ -1,5 +1,7 @@
 World_Grey_Line_Map_Nextion_Screen_GB
  
+Updated : new version 1.4 (some bugs corrected, and a screen saver added) 
+
 A (WGLMNS) World grey line MAP with a stand alone Nextion screen ( Real Time Clock,without any computer, just only with a battery) 
 
 https://dx.qsl.net/propagation/greyline.html
